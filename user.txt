@@ -1,0 +1,2 @@
+users can have profile picture
+user can have images
